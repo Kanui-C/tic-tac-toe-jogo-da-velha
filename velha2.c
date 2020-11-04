@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdbool.h>
+#include <stdlib.h>
+//FEITO POR K4NU1
 
 void tabuleiro(char tabuleiro[3][3]){
 	printf(" %c | %c | %c \n", tabuleiro[0][0],tabuleiro[0][1],tabuleiro[0][2]);
